@@ -5,3 +5,6 @@ rencana tambahan programing
 - apache
 - nginx
 - mysql
+- framework js
+  reactjs
+  nodejs
