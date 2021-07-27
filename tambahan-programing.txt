@@ -5,3 +5,5 @@ rencana tambahan programing
 - apache
 - nginx
 - mysql
+  monggodb
+- docker
