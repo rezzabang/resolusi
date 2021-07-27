@@ -4,3 +4,4 @@ rencana tambahan programing
 - php OOP
 - apache
 - nginx
+- mysql
