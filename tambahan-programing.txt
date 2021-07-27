@@ -1,0 +1,6 @@
+rencana tambahan programing
+
+- python OOP
+- php OOP
+- apache
+- nginx
