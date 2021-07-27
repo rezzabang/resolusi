@@ -1,0 +1,4 @@
+REZZABANG Resolusi:
+
+1. Django
+2. Git
