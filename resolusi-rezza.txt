@@ -2,3 +2,6 @@ REZZABANG Resolusi:
 
 1. Django
 2. Git
+3. Java
+4. JScript
+5. ReactJS
