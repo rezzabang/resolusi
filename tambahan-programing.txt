@@ -5,6 +5,6 @@ rencana tambahan programing
 - apache
 - nginx
 - mysql
-  monggodb
-- docker
-  installasi
+- framework js
+  reactjs
+  nodejs
